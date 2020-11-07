@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT8630IFE#PBF
+D Switching Voltage Regulators 100V, 0.6A Synchronous Micropower Step-Down High Efficiency Switching Regulator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/8630f.pdf
+$ENDCMP
+#
+#End Doc Library

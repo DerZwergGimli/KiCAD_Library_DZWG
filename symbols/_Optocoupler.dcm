@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VOM1271T
+D VISHAY - VOM1271T - DRIVER, MOSFET, HIGH SIDE, SOP-4
+K VISHAY - VOM1271T - DRIVER, MOSFET, HIGH SIDE, SOP-4
+F https://www.mouser.de/datasheet/2/427/vom1271-1767431.pdf
+$ENDCMP
+#
+#End Doc Library

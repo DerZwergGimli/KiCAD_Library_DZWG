@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RI-1205S
+D Recom 2W Isolated DC-DC Converter, Vin 10.8  13.2 V dc, Vout 5V dc, I/O isolation 1000V
+K Recom 2W Isolated DC-DC Converter, Vin 10.8  13.2 V dc, Vout 5V dc, I/O isolation 1000V
+F https://www.mouser.de/datasheet/2/468/RI-1711294.pdf
+$ENDCMP
+#
+#End Doc Library
